@@ -1,4 +1,3 @@
-//parigyan
 package com.wipro.book.bean;
 
 public class BookBean {
